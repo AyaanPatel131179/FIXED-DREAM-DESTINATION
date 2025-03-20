@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(87, 197, 87);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.left {
+    text-align: left;
+    font-size: small;
+}
